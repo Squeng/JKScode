@@ -1,8 +1,14 @@
 .bloop
 .gradle
+.idea
 .kotlin
 .metals
 .vscode
 
 bin
 build
+
+local.properties
+
+Sapp/src/main/scala/domain
+Sapp/src/main/scala/thirdparty_apis
